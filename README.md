@@ -13,18 +13,24 @@ Pour exécuter le script deux méthodes possibles:
 
 ##### Méthode 1
 
-```python3 repartitor.py```
+```
+python3 repartitor.py
+```
 
 ##### Méthode 2
 
 Vous devrez d'abord rendre le script python exécutable en utilisant la commande ci-dessous:
 
-```chmod =x repartitor.py```
+```
+chmod =x repartitor.py
+```
 
 > __Info:__ Vous n'aurez à faire la commande ci-dessus qu'une fois.
 
 Puis pour lancer le script taper:
-```./repartitor.py```
+```
+./repartitor.py
+```
 
 #### Fonctionnement
 
